@@ -55,7 +55,7 @@ https://en.cppreference.com/
 
 ----
 
-``?``
+``?``   
 
 <!--
 <div align="center">
@@ -106,3 +106,15 @@ Prepare-se para o confronto final, onde você enfrentará os desafios mais difí
   <img src="https://i.imgur.com/KL2vuCi.png" alt="Stranger Things">
 </div>
 -->
+ 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/camilla-lourenco/">
+    <img src="https://github.com/caoslourenco/Cpp42/assets/18141491/9b9caab4-1c7b-4a05-9122-054c10330c1c" alt="Design sem nome">
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=clourec&label=Strange+World+%F0%9F%A5%9E+&color=8B0000" alt="Lunatic Landings ⛺"/>
+</p>
