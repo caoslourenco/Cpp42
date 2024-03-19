@@ -6,47 +6,53 @@
 
 Welcome to the C++ Pool Project, where the world of code blends with the mysterious and the unknown. Get ready to dive into nine challenges that will test your skills and courage as you explore the dark corridors of the C++ programming world.
 
-## Phase 00: The Labyrinth's Enigma 🔍
+## [Phase 00: The Labyrinth's Enigma 🔍](https://github.com/caoslourenco/Cpp42/tree/main/cp00)
 
 Navigate the intricate corridors of this code labyrinth and find your way to the exit. Beware of infinite loops and dead ends!
 
-## Phase 01: The Pointer Conspiracy 🔒
+## [Phase 01: The Pointer Conspiracy 🔒](https://github.com/caoslourenco/Cpp42/tree/main/cp01)
 
 Uncover the hidden secrets behind pointers in this haunting challenge. Handle them with caution or risk falling into the clutches of the Segmentation Fault.
 
-## Phase 02: The Creature of Strings 🧵
+## [Phase 02: The Creature of Strings 🧵](https://github.com/caoslourenco/Cpp42/tree/main/cp02)
 
 Confront the creature of strings and its tentacles of characters. Use your string manipulation skills to defeat it and advance to the next stage.
 
-## Phase 03: The Polymorphism Portal 🔮
+## [Phase 03: The Polymorphism Portal 🔮](https://github.com/caoslourenco/Cpp42/tree/main/cp03)
 
 Open the polymorphism portal and master its multiple forms. Learn the art of creating abstract classes and interfaces to overcome this challenge.
 
-## Phase 04: The Debugging Demogorgon 🐛
+## [Phase 04: The Debugging Demogorgon 🐛](https://github.com/caoslourenco/Cpp42/tree/main/cp04)
 
 Face the Debugging Demogorgon and its bug traps. Use your debugging skills to unravel its mysteries and find the lost code.
 
-## Phase 05: The Inverted World of Recursion 🔄
+## [Phase 05: The Inverted World of Recursion 🔄](https://github.com/caoslourenco/Cpp42/tree/main/cp05)
 
 Enter the Inverted World of Recursion, where the rules of logic are turned upside down. Explore its winding paths and discover the hidden secrets within its depths.
 
-## Phase 06: The Containers' Maze 📦
+## [Phase 06: The Containers' Maze 📦](https://github.com/caoslourenco/Cpp42/tree/main/cp06)
 
 Navigate through the Containers' Maze and choose wisely among different types of data structures. Be careful not to get lost in the midst of stacks and queues!
 
-## Phase 07: The Templates' Cave 🗃️
+## [Phase 07: The Templates' Cave 🗃️](https://github.com/caoslourenco/Cpp42/tree/main/cp07)
 
 Explore the Templates' Cave and discover the hidden powers of templates in C++. Unravel their mysteries and use them wisely to unlock their true potential.
 
-## Phase 08: The Final Showdown: The Battle for C++ 💥
+## [Phase 08: The Final Showdown: The Battle for C++ 💥](https://github.com/caoslourenco/Cpp42/tree/main/cp08)
 
 Prepare for the final showdown, where you'll face the toughest and most powerful challenges that the C++ world has to offer. Prove your worth and claim victory!
 
-## 🤯 Extra | Phase 09: The Ford-Johnson Algorithm 🛣️
+## [🤯 Extra | Phase 09: The Ford-Johnson Algorithm 🛣️](https://github.com/caoslourenco/Cpp42/tree/main/cp09)
 
 Implement the Ford-Johnson algorithm and navigate through the complexities of graph theory. Solve the puzzles of shortest paths and conquer the challenges that lie ahead!
 
-https://en.cppreference.com/
+----------------------
+ <div align="center">Referências e Links:</div>  
+
+[📘C++ Reference](https://en.cppreference.com/) [📙 CPlusplus](https://cplusplus.com/)
+
+
+
 ----
 
 <div align="center">
