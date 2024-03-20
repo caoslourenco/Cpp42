@@ -25,6 +25,14 @@ Embark on your quest from anywhere you dare, equipped with the tools of C++ and 
 **How to conquer the labyrinth?**
 Navigate through the maze of code, solving puzzles and challenges along the way. Beware of infinite loops and dead ends, for only those with wit and determination will find their way to the exit and emerge victorious from The Labyrinth's Enigma!
 
+
+<div align="center">
+
+ [🔙](https://github.com/caoslourenco/Cpp42)
+
+</div>
+
+       
 -----
 <!--
 # 🌀 O Enigma do Labirinto 🔍
